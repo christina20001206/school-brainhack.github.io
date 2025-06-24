@@ -7,7 +7,7 @@ github_repo: https://github.com/Cleo-Lan-school/BHS_2025-project
 website:
 tags: [adhd, mri, cvae, iq]
 summary: "This project applies a contrastive variational autoencoder (CVAE) to Burner-preprocessed MRI data from the ADHD-200 dataset to disentangle ADHD-specific brain features from shared anatomical variation. We explore latent representations using RSA and clustering to better understand neuroanatomical heterogeneity in ADHD."
-image: ""
+image: "cover.png"
 ---
 
 ## Project definition
